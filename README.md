@@ -93,16 +93,6 @@ I enjoy:
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/JohON0/JohON0/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
 # 📡 Contact
 
 💬 Discord
