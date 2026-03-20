@@ -51,16 +51,6 @@ I enjoy:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JohON0&theme=matrix&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
 # 📊 3D GitHub Stats
 
 <p align="center">
