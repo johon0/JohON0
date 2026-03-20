@@ -8,14 +8,6 @@
 
 ---
 
-# 🌌 Matrix Developer
-
-<p align="center">
-<img src="https://media.tenor.com/2roX3uxz_68AAAAC/matrix-code.gif" width="600"/>
-</p>
-
----
-
 # 🧠 About
 
 Developer focused on **Java engineering** and expanding into **Python**.
