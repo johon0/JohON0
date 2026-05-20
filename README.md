@@ -49,20 +49,6 @@ I enjoy:
 > “Programs must be written for people to read, and only incidentally for machines to execute.”
 > — Harold Abelson
 
----
-
-# 📊 3D GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JohON0&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohON0&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 Streak Stats
 
 <p align="center">
